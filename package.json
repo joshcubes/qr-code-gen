@@ -1,0 +1,19 @@
+{
+  "name": "qr-code-gen",
+  "version": "1.0.0",
+  "description": "A simple qr code generator using NodeJS + NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshcubes/qr-code-gen.git"
+  },
+  "author": "Joshcubes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshcubes/qr-code-gen/issues"
+  },
+  "homepage": "https://github.com/joshcubes/qr-code-gen#readme"
+}
